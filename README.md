@@ -24,8 +24,7 @@ This API is designed to streamline hospital management by providing an easy-to-u
 - Python 3.x
 - Django
 - Django Rest Framework (DRF)
-- PostgreSQL (or any other database)
-- Virtualenv (optional, but recommended)
+- PostgreSQL / MySQL
 
 
 
